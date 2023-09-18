@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/dayyanshaikh_50" target="blank"><img src="https://img.shields.io/twitter/follow/dayyanshaikh_50?logo=twitter&style=for-the-badge" alt="dayyanshaikh_50" /></a> </p>
 
-- 🔭 I’m currently working on **Acme Web Design**
 
-- 🌱 I’m currently learning **DSA,JS**
+- 🌱 I’m currently learning **DSA,Reactjs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
