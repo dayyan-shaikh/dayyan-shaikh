@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning **DSA,Reactjs**
-- Skills
-javascript logo  nodejs logo  react logo  astro logo  css3 logo  tailwindcss logo  html5 logo  nextjs logo  nextjs logo  express logo  flutter logo  mongodb logo  ionic logo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
