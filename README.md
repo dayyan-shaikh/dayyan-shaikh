@@ -3,7 +3,7 @@
 
 ## I'm a Student!!
 
-- 🌱 I’m currently learning Web development!
+- 🌱 I’m currently learning Mern Stack Development!
 
 
 ### Skills
