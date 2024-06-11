@@ -80,11 +80,11 @@
 [![](https://visitcount.itsvg.in/api?id=DevRohit06&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumittripathi07&show_icons=true&locale=en&layout=compact" alt="sumittripathi07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayyan-shaikh&show_icons=true&locale=en&layout=compact" alt="sumittripathi07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumittripathi07&show_icons=true&locale=en" alt="sumittripathi07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dayyan-shaikh&show_icons=true&locale=en" alt="sumittripathi07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumittripathi07&" alt="sumittripathi07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dayyan-shaikh&" alt="sumittripathi07" /></p>
 
 
 
